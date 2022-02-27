@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SparkFun-DigitalIC)(type Legacy)(uri ${KIPRJMOD}/SparkFun-DigitalIC/SparkFun-DigitalIC.lib)(options "")(descr ""))
+  (lib (name IDT)(type Legacy)(uri ${KIPRJMOD}/IDT/IDT.lib)(options "")(descr ""))
+  (lib (name 6502-vga-rescue)(type Legacy)(uri ${KIPRJMOD}/6502-vga-rescue.lib)(options "")(descr ""))
+)

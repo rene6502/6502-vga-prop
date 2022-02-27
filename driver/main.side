@@ -1,0 +1,11 @@
+main.spin
+const.spin
+funscii-8-parallax.spin
+const.spin
+renderer_driver.spin
+waitvid.320x240.driver.2048.spin
+const.spin
+const.spin
+renderer_driver.spin
+vram_driver.spin
+>compiler=SPIN
